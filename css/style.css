@@ -1,0 +1,28 @@
+#container{
+	width:700px;
+	height:700px;
+	border: 1px solid black;
+	margin: 10px auto;
+	display: none;
+}
+.row{
+	float: left;
+}
+.cell{
+	float: left;
+	border: 1px solid black;
+	display: none;
+}
+#clear{
+	padding-top: 10px;
+	display: none;
+	margin: 20px auto;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	font-family: Arial;
+	width: 10%;
+	height: 30px;
+	background-color: #e7e7e7; 
+	color: black;
+}
